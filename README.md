@@ -1,4 +1,4 @@
-[![C++ CI](https://github.com/LSinterbotix/DynamixelSDK/actions/workflows/cpp-ci.yml/badge.svg)](https://github.com/LSinterbotix/DynamixelSDK/actions/workflows/cpp-ci.yml)
+[![C++ CI](https://github.com/Interbotix/DynamixelSDK/actions/workflows/cpp-ci.yml/badge.svg)](https://github.com/Interbotix/DynamixelSDK/actions/workflows/cpp-ci.yml)
 
 <img src="http://emanual.robotis.com/assets/images/sw/sdk/dynamixel_sdk/overview/dynamixel_sdk_concept_logo.jpg">
 
