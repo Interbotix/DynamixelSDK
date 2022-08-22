@@ -1,3 +1,5 @@
+[![C++ CI](https://github.com/LSinterbotix/DynamixelSDK/actions/workflows/cpp-ci.yml/badge.svg)](https://github.com/LSinterbotix/DynamixelSDK/actions/workflows/cpp-ci.yml)
+
 <img src="http://emanual.robotis.com/assets/images/sw/sdk/dynamixel_sdk/overview/dynamixel_sdk_concept_logo.jpg">
 
 Trossen Robotics fork of the Robotis DYNAMIXEL SDK. This fork has been modified to bring the C++ version of the SDK to the root of the repository and to remove all platforms other than the Linux64. The example projects have also been removed. The [original license](LICENSE) has been preserved.
