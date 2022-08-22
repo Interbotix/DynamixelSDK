@@ -5,7 +5,7 @@
 #---------------------------------------------------------------------
 # C++ COMPILER, COMPILER FLAGS, AND TARGET PROGRAM NAME
 #---------------------------------------------------------------------
-DIR_DXL     = ../..
+DIR_DXL     = ..
 DIR_OBJS    = ./.objects
 
 INSTALL_ROOT = /usr/local
